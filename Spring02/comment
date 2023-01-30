@@ -1,0 +1,13 @@
+SqpSessionTest : sqlSession 자체에 대해 테스트
+BoardDAOImple.java
+	-> 단위 테스트 : BoardDAOTest 
+		ㄴdao.insert()
+		ㄴdao.select()
+		ㄴdao.selectAll()
+		ㄴ...
+		
+		
+단위test
+프로젝트 오른쪽 마우스
+빌드패스 - 애드라이브러리 - 제이유닛
+제이유닛 생성됨 - @RunWith 자동완성되는지 확인
